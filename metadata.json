@@ -1,0 +1,5 @@
+{
+  "name": "Medical Clinic Management",
+  "description": "A comprehensive clinic management system for Medical Clinic with role-based access for doctors, staff, and admins, featuring patient records, digital prescriptions, and signature capture.",
+  "requestFramePermissions": []
+}
